@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -13,8 +13,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": "https://images.squarespace-cdn.com/content/v1/573a10f64c2f855f9136ce37/1474124347975-MGI6Q1MR9K8P7KQI0SDU/IMG_6721.JPG?format=1000w"
+      "characters": "Bruce Wayne"
     },
     {
       "id": "dc-superman",
@@ -94,8 +93,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Peter Parker",
       "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker,Miles Morales",
-      "alt_img": null
+      "characters": "Peter Parker"
     },
     {
       "id": "marvel-captain",
