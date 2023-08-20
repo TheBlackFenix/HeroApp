@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>Eliminar Superheroe</h1>
+<div mat-dialog-content>
+  Está seguro de querer borrar a {{data.superhero}}?
+</div>
+<div mat-dialog-actions>
+  <button mat-button mat-dialog-close (click)="onNoClick()" color="warn">No</button>
+  <span class="spacer"></span>
+  <button mat-button mat-dialog-close cdkFocusInitial (click)="onConfirm()" color="primary">Ok</button>
+</div>
